@@ -20,4 +20,4 @@ node_modules/
 # Python cache files
 __pycache__/
 *.py[cod]
-*.jsonl
+# *.jsonl
